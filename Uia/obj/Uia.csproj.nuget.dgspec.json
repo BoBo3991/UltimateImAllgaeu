@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BoBo\\Project\\Uia\\Uia.csproj": {}
+    "C:\\Users\\BoBo\\Projects\\UltimateImAllgaeu\\Uia\\Uia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BoBo\\Project\\Uia\\Uia.csproj": {
+    "C:\\Users\\BoBo\\Projects\\UltimateImAllgaeu\\Uia\\Uia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BoBo\\Project\\Uia\\Uia.csproj",
+        "projectUniqueName": "C:\\Users\\BoBo\\Projects\\UltimateImAllgaeu\\Uia\\Uia.csproj",
         "projectName": "Uia",
-        "projectPath": "C:\\Users\\BoBo\\Project\\Uia\\Uia.csproj",
+        "projectPath": "C:\\Users\\BoBo\\Projects\\UltimateImAllgaeu\\Uia\\Uia.csproj",
         "packagesPath": "C:\\Users\\BoBo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BoBo\\Project\\Uia\\obj\\",
+        "outputPath": "C:\\Users\\BoBo\\Projects\\UltimateImAllgaeu\\Uia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
